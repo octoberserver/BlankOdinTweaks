@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "blankodintweaks:items/flawed_philosophers_stone"
+  }
+}
